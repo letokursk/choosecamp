@@ -68,10 +68,9 @@
 					</div>
 					<div class="col-md-7">
 						<ul class="footer-nav">
-							<li><a href="#about">Меню1</a></li>
-							<li><a href="#features">Меню2</a></li>
-							<li><a href="#screenshots">Меню3</a></li>
-							<li><a href="#download">Меню4</a></li>
+							<li><a href="tel:+74712540470"><i class="fa fa-heart"></i>8 (4712) 540-470</a></li>
+							<li><a href="mailto:letokursk@ya.ru"><i class="fa fa-flash"></i>letokursk@yandex.ru</a></li>
+							<li><a href="#"><i class="fa fa-flash"></i>305000, г. Курск, ул. Красная площадь, д. 8</a></li>
 						</ul>
 					</div>
 				</div>
